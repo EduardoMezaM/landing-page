@@ -63,7 +63,7 @@ a{
 .third-div{
     display: flex;
     flex-direction: column;
-    height: 300px;
+    height: 400px;
     width: 100%;
     justify-content: space-around;
     align-items: center;
@@ -86,4 +86,24 @@ a{
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+}
+
+.fourth-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    height: 400px;
+    width: 100%;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.quote{
+    width: 600px;
+}
+
+cite{
+    font-weight: 900;
+    font-size: 18px;
 }
