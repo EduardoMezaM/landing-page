@@ -59,3 +59,31 @@ a{
     border-radius: 5px;
     padding: 5px 10px;
 }
+
+.third-div{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    width: 80%;
+}
+ .card{
+    width: 150px;
+    font-size: 18px;
+    color: #1F2937;
+ }
+
+.third-div h1{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
