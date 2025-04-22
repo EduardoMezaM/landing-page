@@ -33,7 +33,7 @@ a{
 
 .logo{
     font-size: 24px;
-    color: goldenrod;
+    color: #E5E7EB;
     font-weight: 900;
 }
 
@@ -52,7 +52,7 @@ a{
 
 .content h1{
     font-size: 48px;
-    color: #F9FAF8;
+    color: goldenrod;
     font-weight: 900;
     width: 400px;
 }
@@ -101,7 +101,7 @@ a{
 .card{
     width: 200px;
     font-size: 16px;
-    color: rgb(45, 45, 44);
+    color: #F9FAF8;
     font-weight: 900;
  }
 
@@ -111,7 +111,7 @@ a{
 
 .third-div h1{
     font-size: 36px;
-    color: rgb(45, 45, 44);
+    color: #F9FAF8;
     font-weight: 900;
 }
 
